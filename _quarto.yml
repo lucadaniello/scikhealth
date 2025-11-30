@@ -26,6 +26,8 @@ website:
           href: datastructure.qmd
         - text: AHC data
           href: data.qmd
+      - text: SciK-Health App
+        href: scikhealth_webapp.qmd
       - text: References & Products
         menu:
         - text: Project References
@@ -34,8 +36,11 @@ website:
           href: publications.qmd
         - text: Conferences
           href: conferences.qmd
-        - text: Workshops & Team Meetings
+        - text: Workshops & Organized Conference Sessions
           href: workshops.qmd
+        - text: Team Meetings
+          href: teamMeetings.qmd
+
 format:
   html:
     include-in-header: _includes/banner.html
@@ -45,4 +50,3 @@ format:
     page-layout: full
 
 editor: visual
-
