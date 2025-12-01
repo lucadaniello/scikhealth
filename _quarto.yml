@@ -36,8 +36,10 @@ website:
           href: publications.qmd
         - text: Conferences
           href: conferences.qmd
-        - text: Workshops & Organized Conference Sessions
+        - text: Workshops 
           href: workshops.qmd
+        - text: Organized Conference Sessions
+          href: organizedSessions.qmd
         - text: Team Meetings
           href: teamMeetings.qmd
 

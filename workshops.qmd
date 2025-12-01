@@ -24,13 +24,13 @@ The workshop provides an overview of the data collection strategy, the structure
 
 ------------------------------------------------------------------------
 
-### Workshop: Research Performance and Social Impact of Italian Public Academic Health Science Centers
+<!-- ### Workshop: Research Performance and Social Impact of Italian Public Academic Health Science Centers -->
 
-**Date:** June 10, 2025\
-**Location:** Department of Economics and Statistics (DiSES), University of Naples Federico II
+<!-- **Date:** June 10, 2025\ -->
+<!-- **Location:** Department of Economics and Statistics (DiSES), University of Naples Federico II -->
 
-This advanced workshop examines the relationship between research performance and healthcare outcomes in Italian public Academic Health Science Centres. It explores whether academic research drives healthcare quality, patient choice, and case-mix complexity, using bibliometric and scientometric methods.
+<!-- This advanced workshop examines the relationship between research performance and healthcare outcomes in Italian public Academic Health Science Centres. It explores whether academic research drives healthcare quality, patient choice, and case-mix complexity, using bibliometric and scientometric methods. -->
 
-The event includes a session on bibliographic databases for systematic literature reviews—from classic to AI-powered solutions—delivered by Prof. Nicola De Bellis (University of Modena & Reggio Emilia). The workshop also presents methodologies to assess the scientific, social, and industrial impact of AHC activities, along with strategies for research dissemination and public engagement.
+<!-- The event includes a session on bibliographic databases for systematic literature reviews—from classic to AI-powered solutions—delivered by Prof. Nicola De Bellis (University of Modena & Reggio Emilia). The workshop also presents methodologies to assess the scientific, social, and industrial impact of AHC activities, along with strategies for research dissemination and public engagement. -->
 
-[View workshop program](www/locandinaWorkshop_PNRR_June2025.pdf){target="_blank"}
+<!-- [View workshop program](www/locandinaWorkshop_PNRR_June2025.pdf){target="_blank"} -->
