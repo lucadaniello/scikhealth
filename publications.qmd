@@ -13,7 +13,6 @@ format: html
 
 - Aria, M., Gnasso, A., Iorio, C., Fokkema, M. (2026) *Extending Explainable Ensemble Trees to regression contexts.* *Applied Stochastic Models in Business and Industry* <a href="https://doi.org/10.1002/asmb.70064" target="_blank">https://doi.org/10.1002/asmb.70064</a>
 
-
 - Aria, M., Gnasso, A., Rivieccio, R., Siciliano, R. (2025). *Predicting depression in Italy using random forest through the E2Tree methodology.* *Annals of Operations Research.* <a href="https://doi.org/10.1007/s10479-025-06758-7" target="_blank">https://doi.org/10.1007/s10479-025-06758-7</a>
 
 - Aria, M., Cuccurullo, C., D’Aniello, L., Misuraca, M. & Spano, M. (2025). *Sintetizzare la conoscenza:un approccio integrato per l’estrazione di contenuti rilevanti nella letteratura scientifica.* *Tesi e Temi*
