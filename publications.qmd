@@ -5,9 +5,11 @@ format: html
 
 ## Scientific Articles
 
+- Aria, M., Spano, M., D'Aniello, L., Misuraca, M., Cuccurullo, C. (2026). *TALL: Text analysis for all–an interactive R-shiny application for exploring, modeling, and visualizing textual data.* *SoftwareX* <a href="https://doi.org/10.1016/j.softx.2026.102590" target="_blank">https://doi.org/10.1016/j.softx.2026.102590</a>
+
 - Alaimo S. L., Aria M., D'Aniello L., Spano M. (2026). *Scientific Knowledge and Healthcare Quality: A Multidimensional Assessment of Italian Academic Health Science Centres.* *Applied Stochastic Models in Business and Industry* [forthcoming]
 
-- Aria M., Cuccurullo C., D'Aniello L., Spano M. (2026). *SciK-Health: An Open-Data Dashboard for the Multi-Dimensional Evaluation of Academic Health Science Centers.* *Quality & Quantity* [forthcoming]
+- Aria M., Cuccurullo C., D'Aniello L., Spano M. (2026). *SciK-Health: An Open-Data Dashboard for the Multi-Dimensional Evaluation of Academic Health Science Centers.* *Quality & Quantity* [under review]
 
 - Aria, M., Gnasso, A., Iorio, C., Fokkema, M. (2026) *Extending Explainable Ensemble Trees to regression contexts.* *Applied Stochastic Models in Business and Industry*
 

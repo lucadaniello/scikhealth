@@ -51,26 +51,8 @@ Department of Economics and Statistics\
 ::::::
 
 :::::: {style="display: flex; align-items: flex-start; gap: 1.5em; flex-wrap: wrap; margin-bottom: 2em;"}
-<!-- Left: Foto del membro -->
 
-::: {style="flex: 0 0 150px;"}
-![](www/guerriero.jpg){width="150px" style="border-radius: 10px;"}
-:::
 
-<!-- Right: Dati + Contatti -->
-
-:::: {style="flex: 1; min-width: 250px;"}
-**Carla Guerriero**\
-Associate Professor in Finance\
-Department of Economics and Statistics\
-
-::: {style="margin-top: 0.8em; font-size: 1.2em;"}
-[![](www/email-icon.png){width="22px" style="margin-right:8px"}](mailto:carla.guerriero@unina.it) [![](www/web-icon.png){width="22px" style="margin-right:8px"}](https://www.docenti.unina.it/#!/professor/4341524c4147554552524945524f47525243524c3834523634463833395a/riferimenti) [![](www/linkedin-icon.png){width="22px"}](https://uk.linkedin.com/in/carla-guerriero-95a8496a)
-:::
-::::
-::::::
-
-:::::: {style="display: flex; align-items: flex-start; gap: 1.5em; flex-wrap: wrap; margin-bottom: 2em;"}
 <!-- Left: Foto del membro -->
 
 ::: {style="flex: 0 0 150px;"}
