@@ -7,11 +7,12 @@ format: html
 
 - Aria, M., Spano, M., D'Aniello, L., Cuccurullo, C., Misuraca, M. (2026). *TALL: Text analysis for all–an interactive R-shiny application for exploring, modeling, and visualizing textual data.* *SoftwareX* <a href="https://doi.org/10.1016/j.softx.2026.102590" target="_blank">https://doi.org/10.1016/j.softx.2026.102590</a>
 
-- Alaimo S. L., Aria M., D'Aniello L., Spano M. (2026). *Scientific Knowledge and Healthcare Quality: A Multidimensional Assessment of Italian Academic Health Science Centres.* *Applied Stochastic Models in Business and Industry* [forthcoming]
+- Alaimo S. L., Aria M., D'Aniello L., Spano M. (2026). *Scientific Knowledge and Healthcare Quality: A Multidimensional Assessment of Italian Academic Health Science Centres.* *Applied Stochastic Models in Business and Industry* [under review]
 
 - Aria M., Cuccurullo C., D'Aniello L., Spano M. (2026). *SciK-Health: An Open-Data Dashboard for the Multi-Dimensional Evaluation of Academic Health Science Centers.* *Quality & Quantity* [under review]
 
-- Aria, M., Gnasso, A., Iorio, C., Fokkema, M. (2026) *Extending Explainable Ensemble Trees to regression contexts.* *Applied Stochastic Models in Business and Industry*
+- Aria, M., Gnasso, A., Iorio, C., Fokkema, M. (2026) *Extending Explainable Ensemble Trees to regression contexts.* *Applied Stochastic Models in Business and Industry* <a href="https://doi.org/10.1002/asmb.70064" target="_blank">https://doi.org/10.1002/asmb.70064</a>
+
 
 - Aria, M., Gnasso, A., Rivieccio, R., Siciliano, R. (2025). *Predicting depression in Italy using random forest through the E2Tree methodology.* *Annals of Operations Research.* <a href="https://doi.org/10.1007/s10479-025-06758-7" target="_blank">https://doi.org/10.1007/s10479-025-06758-7</a>
 
